@@ -23,8 +23,4 @@ A JavaScript file illustrating loop structures:
 - `while` loop in reverse: Prints numbers from 10 to 1.
 - A complex loop that reverses numbers in a specific pattern.
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
